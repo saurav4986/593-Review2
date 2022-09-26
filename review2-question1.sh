@@ -1,7 +1,8 @@
 #!/bin/bash
 
-num1=10;
-num2=20;
+read -p "Enter 1st number:" num1
+
+read -p "Enter 2nd number:" num2
 
 if [ $num1 -gt $num2 ]
 then
