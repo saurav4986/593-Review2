@@ -6,4 +6,4 @@ do
         echo $i
 done
 echo
-echo "Value at 4th index is: "$index_array[4];
+echo "Value at 4th index is: "${index_array[4]};
